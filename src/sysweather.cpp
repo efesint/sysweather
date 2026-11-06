@@ -73,7 +73,7 @@ std::string username = std::getenv("USER");
     std::cout << "            (__)\\       )\\/\\" << std::endl;
     std::cout << "                ||----w |" << std::endl;
     std::cout << "                ||     ||" << std::endl;
-
+    std::cout << std::endl;
 return 0;
 }
 

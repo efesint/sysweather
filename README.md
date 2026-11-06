@@ -1,6 +1,6 @@
 # sysweather
 Display the weather and system information.
-![sysweather in action](image.png)
+![sysweather in action](img/image.png)
 ## Requirements
 1.C Compiler
 
