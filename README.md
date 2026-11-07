@@ -31,7 +31,6 @@ system info
 [![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C.svg)](https://en.cppreference.com/w/cpp/17)
 
-<img src="img/image.png" alt="sysweather in action" width="640">
 
 </div>
 
